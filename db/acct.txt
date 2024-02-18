@@ -1,0 +1,6 @@
+email: admin@mail.com
+password: admin123
+
+
+email:encoder@mail.com
+password: encoder123

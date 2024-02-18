@@ -1,0 +1,13 @@
+@page{
+    size:landscape;
+    margin:0;
+    orientation:Landscape;
+    /* page-orientation: rotate-left; */
+
+}
+
+#print-btn, .back{
+    display:none;
+    visibility:none;
+}
+

@@ -1,0 +1,1 @@
+echo "# php_ims_lgusol"
